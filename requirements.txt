@@ -1,0 +1,11 @@
+# Modern Browser Dependencies
+# ============================
+
+# Core PyQt5 framework
+PyQt5>=5.15.0
+
+# Web engine for browser functionality
+PyQtWebEngine>=5.15.0
+
+# Cryptography for password encryption
+cryptography>=3.4.0
