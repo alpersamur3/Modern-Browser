@@ -119,6 +119,18 @@ class SearchManager(QObject):
         
         if bang in bang_map:
             engine = bang_map[bang]
+            # If query is empty, navigate to the search engine homepage
+            if not query:
+                engine_urls = {
+                    'Google': 'https://www.google.com',
+                    'DuckDuckGo': 'https://duckduckgo.com',
+                    'Bing': 'https://www.bing.com',
+                    'Yahoo': 'https://search.yahoo.com',
+                    'Yandex': 'https://yandex.com',
+                    'Ecosia': 'https://www.ecosia.org',
+                    'Brave': 'https://search.brave.com'
+                }
+                return engine_urls.get(engine, 'https://www.google.com'), False
             return self.get_search_url(query, engine), True
         
         # Unknown bang, search with default engine

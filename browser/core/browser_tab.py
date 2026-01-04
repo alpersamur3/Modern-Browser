@@ -23,9 +23,17 @@ class BrowserPage(QWebEnginePage):
         return super().createWindow(window_type)
     
     def certificateError(self, error):
-        """Handle SSL certificate errors"""
-        # In production, you might want to show a warning
-        return False  # Don't accept invalid certificates
+        """
+        Handle SSL certificate errors securely.
+        Always reject invalid certificates to protect users from
+        man-in-the-middle attacks and phishing attempts.
+        
+        Future enhancement: Could show a warning dialog letting 
+        users make an informed decision for self-signed certificates.
+        """
+        # Security: Never accept invalid certificates automatically
+        # This protects users from MITM attacks
+        return False
 
 
 class BrowserTab(QWebEngineView):

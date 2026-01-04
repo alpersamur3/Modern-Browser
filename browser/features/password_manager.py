@@ -83,12 +83,12 @@ class PasswordManager(QObject):
     
     def _init_encryption(self):
         """Initialize encryption with stored or generated key"""
-        # Get or generate salt
+        # Get or generate salt (32 bytes for better security)
         stored_salt = self.settings.value("passwords/salt")
         if stored_salt:
             self._salt = base64.b64decode(stored_salt)
         else:
-            self._salt = os.urandom(16)
+            self._salt = os.urandom(32)  # 32 bytes for cryptographic security
             self.settings.setValue("passwords/salt", base64.b64encode(self._salt).decode())
         
         # Check for master password

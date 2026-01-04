@@ -285,13 +285,14 @@ class DownloadManager(QObject):
                 import platform
                 
                 filepath = item.full_path
-                if os.path.exists(filepath):
+                # Validate filepath is a real file and not a command
+                if os.path.isfile(filepath):
                     if platform.system() == 'Darwin':
-                        subprocess.call(('open', filepath))
+                        subprocess.run(['open', filepath], check=False)
                     elif platform.system() == 'Windows':
                         os.startfile(filepath)
                     else:
-                        subprocess.call(('xdg-open', filepath))
+                        subprocess.run(['xdg-open', filepath], check=False)
                     return True
         return False
     
@@ -303,13 +304,14 @@ class DownloadManager(QObject):
             import platform
             
             folder = item.path
-            if os.path.exists(folder):
+            # Validate folder is a real directory
+            if os.path.isdir(folder):
                 if platform.system() == 'Darwin':
-                    subprocess.call(('open', folder))
+                    subprocess.run(['open', folder], check=False)
                 elif platform.system() == 'Windows':
-                    subprocess.call(('explorer', folder))
+                    subprocess.run(['explorer', folder], check=False)
                 else:
-                    subprocess.call(('xdg-open', folder))
+                    subprocess.run(['xdg-open', folder], check=False)
                 return True
         return False
     

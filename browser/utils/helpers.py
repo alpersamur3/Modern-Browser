@@ -119,7 +119,7 @@ def generate_unique_filename(directory, filename):
 
 
 def hash_password(password, salt=None):
-    """Hash password using SHA-256"""
+    """Hash password using PBKDF2 with SHA-256 for secure password storage"""
     if salt is None:
         salt = os.urandom(32)
     
@@ -128,7 +128,7 @@ def hash_password(password, salt=None):
 
 
 def verify_password(password, stored_hash):
-    """Verify password against stored hash"""
+    """Verify password against stored PBKDF2 hash"""
     salt = stored_hash[:32]
     stored_password = stored_hash[32:]
     hashed = hashlib.pbkdf2_hmac('sha256', password.encode(), salt, 100000)
