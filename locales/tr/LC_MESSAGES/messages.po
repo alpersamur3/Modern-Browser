@@ -1,0 +1,409 @@
+# Turkish translations for Modern Browser
+# Copyright (C) 2025 Alper Samur
+# This file is distributed under the same license as the Modern Browser package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Modern Browser 2.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-01-01 00:00+0000\n"
+"PO-Revision-Date: 2025-01-01 00:00+0000\n"
+"Last-Translator: Alper Samur\n"
+"Language-Team: Turkish\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "New Tab"
+msgstr "Yeni Sekme"
+
+msgid "Private Tab"
+msgstr "Gizli Sekme"
+
+msgid "New Window"
+msgstr "Yeni Pencere"
+
+msgid "New Private Window"
+msgstr "Yeni Gizli Pencere"
+
+msgid "Back"
+msgstr "Geri"
+
+msgid "Forward"
+msgstr "İleri"
+
+msgid "Reload"
+msgstr "Yenile"
+
+msgid "Stop"
+msgstr "Durdur"
+
+msgid "Home"
+msgstr "Ana Sayfa"
+
+msgid "Search or enter URL..."
+msgstr "Ara veya URL gir..."
+
+msgid "Add Bookmark"
+msgstr "Yer İmi Ekle"
+
+msgid "Remove Bookmark"
+msgstr "Yer İmini Kaldır"
+
+msgid "Bookmarks"
+msgstr "Yer İmleri"
+
+msgid "History"
+msgstr "Geçmiş"
+
+msgid "Downloads"
+msgstr "İndirmeler"
+
+msgid "Settings"
+msgstr "Ayarlar"
+
+msgid "Dark Mode"
+msgstr "Karanlık Mod"
+
+msgid "Zoom In"
+msgstr "Yakınlaştır"
+
+msgid "Zoom Out"
+msgstr "Uzaklaştır"
+
+msgid "Reset Zoom"
+msgstr "Yakınlaştırmayı Sıfırla"
+
+msgid "Fullscreen"
+msgstr "Tam Ekran"
+
+msgid "Find in Page"
+msgstr "Sayfada Bul"
+
+msgid "Print"
+msgstr "Yazdır"
+
+msgid "Developer Tools"
+msgstr "Geliştirici Araçları"
+
+msgid "View Source"
+msgstr "Kaynağı Görüntüle"
+
+msgid "About"
+msgstr "Hakkında"
+
+msgid "Quit"
+msgstr "Çıkış"
+
+msgid "Reopen Closed Tab"
+msgstr "Kapatılan Sekmeyi Aç"
+
+msgid "View"
+msgstr "Görünüm"
+
+msgid "Tools"
+msgstr "Araçlar"
+
+msgid "Reader Mode"
+msgstr "Okuma Modu"
+
+msgid "Screenshot"
+msgstr "Ekran Görüntüsü"
+
+msgid "Close"
+msgstr "Kapat"
+
+msgid "Cancel"
+msgstr "İptal"
+
+msgid "Save"
+msgstr "Kaydet"
+
+msgid "Title"
+msgstr "Başlık"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Folder"
+msgstr "Klasör"
+
+msgid "Bookmarks Bar"
+msgstr "Yer İmleri Çubuğu"
+
+msgid "Other Bookmarks"
+msgstr "Diğer Yer İmleri"
+
+msgid "General"
+msgstr "Genel"
+
+msgid "Appearance"
+msgstr "Görünüm"
+
+msgid "Privacy"
+msgstr "Gizlilik"
+
+msgid "Security"
+msgstr "Güvenlik"
+
+msgid "Homepage"
+msgstr "Ana Sayfa"
+
+msgid "Search Engine"
+msgstr "Arama Motoru"
+
+msgid "Language"
+msgstr "Dil"
+
+msgid "Startup"
+msgstr "Başlangıç"
+
+msgid "Open homepage"
+msgstr "Ana sayfayı aç"
+
+msgid "Continue last session"
+msgstr "Son oturumu sürdür"
+
+msgid "Open blank tab"
+msgstr "Boş sekme aç"
+
+msgid "Theme"
+msgstr "Tema"
+
+msgid "Interface"
+msgstr "Arayüz"
+
+msgid "Show bookmarks bar"
+msgstr "Yer imleri çubuğunu göster"
+
+msgid "Show status bar"
+msgstr "Durum çubuğunu göster"
+
+msgid "Tracking"
+msgstr "İzleme"
+
+msgid "Send 'Do Not Track' request"
+msgstr "'İzlenme' isteği gönder"
+
+msgid "Block third-party cookies"
+msgstr "Üçüncü taraf çerezleri engelle"
+
+msgid "Data"
+msgstr "Veri"
+
+msgid "Save passwords"
+msgstr "Parolaları kaydet"
+
+msgid "Auto-fill forms"
+msgstr "Formları otomatik doldur"
+
+msgid "Clear data on exit"
+msgstr "Çıkışta verileri temizle"
+
+msgid "Clear Browsing Data..."
+msgstr "Tarama Verilerini Temizle..."
+
+msgid "Ad blocker"
+msgstr "Reklam engelleyici"
+
+msgid "Phishing protection"
+msgstr "Kimlik avı koruması"
+
+msgid "Use HTTPS only"
+msgstr "Yalnızca HTTPS kullan"
+
+msgid "Enable JavaScript"
+msgstr "JavaScript'i etkinleştir"
+
+msgid "JavaScript"
+msgstr "JavaScript"
+
+msgid "Location"
+msgstr "Konum"
+
+msgid "Browse..."
+msgstr "Gözat..."
+
+msgid "Options"
+msgstr "Seçenekler"
+
+msgid "Ask for location on each download"
+msgstr "Her indirmede konum sor"
+
+msgid "Auto-open completed downloads"
+msgstr "Tamamlanan indirmeleri otomatik aç"
+
+msgid "Download Folder"
+msgstr "İndirme Klasörü"
+
+msgid "Clear Browsing Data"
+msgstr "Tarama Verilerini Temizle"
+
+msgid "Time range"
+msgstr "Zaman aralığı"
+
+msgid "Last hour"
+msgstr "Son 1 saat"
+
+msgid "Last 24 hours"
+msgstr "Son 24 saat"
+
+msgid "Last 7 days"
+msgstr "Son 7 gün"
+
+msgid "Last 4 weeks"
+msgstr "Son 4 hafta"
+
+msgid "All time"
+msgstr "Tüm zamanlar"
+
+msgid "Data to clear"
+msgstr "Temizlenecek veriler"
+
+msgid "Browsing history"
+msgstr "Tarama geçmişi"
+
+msgid "Cookies and site data"
+msgstr "Çerezler ve site verileri"
+
+msgid "Cache"
+msgstr "Önbellek"
+
+msgid "Download history"
+msgstr "İndirme geçmişi"
+
+msgid "Saved passwords"
+msgstr "Kaydedilmiş parolalar"
+
+msgid "Autofill data"
+msgstr "Otomatik doldurma verileri"
+
+msgid "Clear Data"
+msgstr "Verileri Temizle"
+
+msgid "Modern, fast and secure web browser"
+msgstr "Modern, hızlı ve güvenli bir web tarayıcısı"
+
+msgid "Downloading"
+msgstr "İndiriliyor"
+
+msgid "Download started"
+msgstr "İndirme başladı"
+
+msgid "Download completed"
+msgstr "İndirme tamamlandı"
+
+msgid "Download failed"
+msgstr "İndirme başarısız"
+
+msgid "Completed"
+msgstr "Tamamlandı"
+
+msgid "Show"
+msgstr "Göster"
+
+msgid "Bookmark added"
+msgstr "Yer imi eklendi"
+
+msgid "Bookmark removed"
+msgstr "Yer imi kaldırıldı"
+
+msgid "Screenshot saved"
+msgstr "Ekran görüntüsü kaydedildi"
+
+msgid "Save Screenshot"
+msgstr "Ekran Görüntüsünü Kaydet"
+
+msgid "Clear History"
+msgstr "Geçmişi Temizle"
+
+msgid "Are you sure you want to clear all browsing history?"
+msgstr "Tüm tarama geçmişini silmek istediğinize emin misiniz?"
+
+msgid "History cleared"
+msgstr "Geçmiş temizlendi"
+
+msgid "Secure connection (HTTPS)"
+msgstr "Güvenli bağlantı (HTTPS)"
+
+msgid "Insecure connection"
+msgstr "Güvensiz bağlantı"
+
+msgid "Reset zoom"
+msgstr "Yakınlaştırmayı sıfırla"
+
+msgid "Blocked ads count"
+msgstr "Engellenen reklam sayısı"
+
+msgid "No bookmarks yet"
+msgstr "Henüz yer imi yok"
+
+msgid "No history yet"
+msgstr "Henüz geçmiş yok"
+
+msgid "No downloads yet"
+msgstr "Henüz indirme yok"
+
+msgid "Open"
+msgstr "Aç"
+
+msgid "Reload Tab"
+msgstr "Sekmeyi Yenile"
+
+msgid "Duplicate Tab"
+msgstr "Sekmeyi Kopyala"
+
+msgid "Pin Tab"
+msgstr "Sekmeyi Sabitle"
+
+msgid "Unpin Tab"
+msgstr "Sabitlemeyi Kaldır"
+
+msgid "Mute Tab"
+msgstr "Sessize Al"
+
+msgid "Unmute Tab"
+msgstr "Sesi Aç"
+
+msgid "Close Tab"
+msgstr "Sekmeyi Kapat"
+
+msgid "Close Others"
+msgstr "Diğerlerini Kapat"
+
+msgid "Close Tabs to Right"
+msgstr "Sağdakileri Kapat"
+
+msgid "Clear"
+msgstr "Temizle"
+
+msgid "Search..."
+msgstr "Ara..."
+
+msgid "Ad blocker enabled"
+msgstr "Reklam engelleyici etkin"
+
+msgid "Ad blocker disabled"
+msgstr "Reklam engelleyici devre dışı"
+
+msgid "Case sensitive"
+msgstr "Büyük/küçük harf duyarlı"
+
+msgid "Private Browsing"
+msgstr "Gizli Gezinti"
+
+msgid "You are in a private window. Pages you visit will not be saved in your history."
+msgstr "Gizli penceredesiniz. Ziyaret ettiğiniz sayfalar geçmişinize kaydedilmeyecek."
+
+msgid "Private browsing active"
+msgstr "Gizli gezinti etkin"
+
+msgid "tabs are open. Are you sure you want to quit?"
+msgstr "sekme açık. Çıkmak istediğinize emin misiniz?"
+
+msgid "Page Source"
+msgstr "Sayfa Kaynağı"
+
+msgid "Select Download Folder"
+msgstr "İndirme Klasörü Seç"

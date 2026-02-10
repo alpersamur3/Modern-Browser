@@ -1,0 +1,408 @@
+# English translations for Modern Browser
+# Copyright (C) 2025 Alper Samur
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Modern Browser 2.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-01-01 00:00+0000\n"
+"PO-Revision-Date: 2025-01-01 00:00+0000\n"
+"Last-Translator: Alper Samur\n"
+"Language-Team: English\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "New Tab"
+msgstr "New Tab"
+
+msgid "Private Tab"
+msgstr "Private Tab"
+
+msgid "New Window"
+msgstr "New Window"
+
+msgid "New Private Window"
+msgstr "New Private Window"
+
+msgid "Back"
+msgstr "Back"
+
+msgid "Forward"
+msgstr "Forward"
+
+msgid "Reload"
+msgstr "Reload"
+
+msgid "Stop"
+msgstr "Stop"
+
+msgid "Home"
+msgstr "Home"
+
+msgid "Search or enter URL..."
+msgstr "Search or enter URL..."
+
+msgid "Add Bookmark"
+msgstr "Add Bookmark"
+
+msgid "Remove Bookmark"
+msgstr "Remove Bookmark"
+
+msgid "Bookmarks"
+msgstr "Bookmarks"
+
+msgid "History"
+msgstr "History"
+
+msgid "Downloads"
+msgstr "Downloads"
+
+msgid "Settings"
+msgstr "Settings"
+
+msgid "Dark Mode"
+msgstr "Dark Mode"
+
+msgid "Zoom In"
+msgstr "Zoom In"
+
+msgid "Zoom Out"
+msgstr "Zoom Out"
+
+msgid "Reset Zoom"
+msgstr "Reset Zoom"
+
+msgid "Fullscreen"
+msgstr "Fullscreen"
+
+msgid "Find in Page"
+msgstr "Find in Page"
+
+msgid "Print"
+msgstr "Print"
+
+msgid "Developer Tools"
+msgstr "Developer Tools"
+
+msgid "View Source"
+msgstr "View Source"
+
+msgid "About"
+msgstr "About"
+
+msgid "Quit"
+msgstr "Quit"
+
+msgid "Reopen Closed Tab"
+msgstr "Reopen Closed Tab"
+
+msgid "View"
+msgstr "View"
+
+msgid "Tools"
+msgstr "Tools"
+
+msgid "Reader Mode"
+msgstr "Reader Mode"
+
+msgid "Screenshot"
+msgstr "Screenshot"
+
+msgid "Close"
+msgstr "Close"
+
+msgid "Cancel"
+msgstr "Cancel"
+
+msgid "Save"
+msgstr "Save"
+
+msgid "Title"
+msgstr "Title"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Folder"
+msgstr "Folder"
+
+msgid "Bookmarks Bar"
+msgstr "Bookmarks Bar"
+
+msgid "Other Bookmarks"
+msgstr "Other Bookmarks"
+
+msgid "General"
+msgstr "General"
+
+msgid "Appearance"
+msgstr "Appearance"
+
+msgid "Privacy"
+msgstr "Privacy"
+
+msgid "Security"
+msgstr "Security"
+
+msgid "Homepage"
+msgstr "Homepage"
+
+msgid "Search Engine"
+msgstr "Search Engine"
+
+msgid "Language"
+msgstr "Language"
+
+msgid "Startup"
+msgstr "Startup"
+
+msgid "Open homepage"
+msgstr "Open homepage"
+
+msgid "Continue last session"
+msgstr "Continue last session"
+
+msgid "Open blank tab"
+msgstr "Open blank tab"
+
+msgid "Theme"
+msgstr "Theme"
+
+msgid "Interface"
+msgstr "Interface"
+
+msgid "Show bookmarks bar"
+msgstr "Show bookmarks bar"
+
+msgid "Show status bar"
+msgstr "Show status bar"
+
+msgid "Tracking"
+msgstr "Tracking"
+
+msgid "Send 'Do Not Track' request"
+msgstr "Send 'Do Not Track' request"
+
+msgid "Block third-party cookies"
+msgstr "Block third-party cookies"
+
+msgid "Data"
+msgstr "Data"
+
+msgid "Save passwords"
+msgstr "Save passwords"
+
+msgid "Auto-fill forms"
+msgstr "Auto-fill forms"
+
+msgid "Clear data on exit"
+msgstr "Clear data on exit"
+
+msgid "Clear Browsing Data..."
+msgstr "Clear Browsing Data..."
+
+msgid "Ad blocker"
+msgstr "Ad blocker"
+
+msgid "Phishing protection"
+msgstr "Phishing protection"
+
+msgid "Use HTTPS only"
+msgstr "Use HTTPS only"
+
+msgid "Enable JavaScript"
+msgstr "Enable JavaScript"
+
+msgid "JavaScript"
+msgstr "JavaScript"
+
+msgid "Location"
+msgstr "Location"
+
+msgid "Browse..."
+msgstr "Browse..."
+
+msgid "Options"
+msgstr "Options"
+
+msgid "Ask for location on each download"
+msgstr "Ask for location on each download"
+
+msgid "Auto-open completed downloads"
+msgstr "Auto-open completed downloads"
+
+msgid "Download Folder"
+msgstr "Download Folder"
+
+msgid "Clear Browsing Data"
+msgstr "Clear Browsing Data"
+
+msgid "Time range"
+msgstr "Time range"
+
+msgid "Last hour"
+msgstr "Last hour"
+
+msgid "Last 24 hours"
+msgstr "Last 24 hours"
+
+msgid "Last 7 days"
+msgstr "Last 7 days"
+
+msgid "Last 4 weeks"
+msgstr "Last 4 weeks"
+
+msgid "All time"
+msgstr "All time"
+
+msgid "Data to clear"
+msgstr "Data to clear"
+
+msgid "Browsing history"
+msgstr "Browsing history"
+
+msgid "Cookies and site data"
+msgstr "Cookies and site data"
+
+msgid "Cache"
+msgstr "Cache"
+
+msgid "Download history"
+msgstr "Download history"
+
+msgid "Saved passwords"
+msgstr "Saved passwords"
+
+msgid "Autofill data"
+msgstr "Autofill data"
+
+msgid "Clear Data"
+msgstr "Clear Data"
+
+msgid "Modern, fast and secure web browser"
+msgstr "Modern, fast and secure web browser"
+
+msgid "Downloading"
+msgstr "Downloading"
+
+msgid "Download started"
+msgstr "Download started"
+
+msgid "Download completed"
+msgstr "Download completed"
+
+msgid "Download failed"
+msgstr "Download failed"
+
+msgid "Completed"
+msgstr "Completed"
+
+msgid "Show"
+msgstr "Show"
+
+msgid "Bookmark added"
+msgstr "Bookmark added"
+
+msgid "Bookmark removed"
+msgstr "Bookmark removed"
+
+msgid "Screenshot saved"
+msgstr "Screenshot saved"
+
+msgid "Save Screenshot"
+msgstr "Save Screenshot"
+
+msgid "Clear History"
+msgstr "Clear History"
+
+msgid "Are you sure you want to clear all browsing history?"
+msgstr "Are you sure you want to clear all browsing history?"
+
+msgid "History cleared"
+msgstr "History cleared"
+
+msgid "Secure connection (HTTPS)"
+msgstr "Secure connection (HTTPS)"
+
+msgid "Insecure connection"
+msgstr "Insecure connection"
+
+msgid "Reset zoom"
+msgstr "Reset zoom"
+
+msgid "Blocked ads count"
+msgstr "Blocked ads count"
+
+msgid "No bookmarks yet"
+msgstr "No bookmarks yet"
+
+msgid "No history yet"
+msgstr "No history yet"
+
+msgid "No downloads yet"
+msgstr "No downloads yet"
+
+msgid "Open"
+msgstr "Open"
+
+msgid "Reload Tab"
+msgstr "Reload Tab"
+
+msgid "Duplicate Tab"
+msgstr "Duplicate Tab"
+
+msgid "Pin Tab"
+msgstr "Pin Tab"
+
+msgid "Unpin Tab"
+msgstr "Unpin Tab"
+
+msgid "Mute Tab"
+msgstr "Mute Tab"
+
+msgid "Unmute Tab"
+msgstr "Unmute Tab"
+
+msgid "Close Tab"
+msgstr "Close Tab"
+
+msgid "Close Others"
+msgstr "Close Others"
+
+msgid "Close Tabs to Right"
+msgstr "Close Tabs to Right"
+
+msgid "Clear"
+msgstr "Clear"
+
+msgid "Search..."
+msgstr "Search..."
+
+msgid "Ad blocker enabled"
+msgstr "Ad blocker enabled"
+
+msgid "Ad blocker disabled"
+msgstr "Ad blocker disabled"
+
+msgid "Case sensitive"
+msgstr "Case sensitive"
+
+msgid "Private Browsing"
+msgstr "Private Browsing"
+
+msgid "You are in a private window. Pages you visit will not be saved in your history."
+msgstr "You are in a private window. Pages you visit will not be saved in your history."
+
+msgid "Private browsing active"
+msgstr "Private browsing active"
+
+msgid "tabs are open. Are you sure you want to quit?"
+msgstr "tabs are open. Are you sure you want to quit?"
+
+msgid "Page Source"
+msgstr "Page Source"
+
+msgid "Select Download Folder"
+msgstr "Select Download Folder"
