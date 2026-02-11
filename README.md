@@ -248,6 +248,15 @@ Modüler yapı sayesinde yeni özellikler kolayca eklenebilir:
 - **MVC Benzeri**: `core/` (model), `ui/` (view/controller), `features/` (servisler)
 - **gettext i18n**: Tüm UI metinleri `tr()` fonksiyonu ile çevrilebilir
 
+### Ekran Görüntüleri
+
+<img width="460" height="453" alt="Ekran görüntüsü 2026-02-11 111841" src="https://github.com/user-attachments/assets/11e1e104-1a47-4f67-af3d-144e7bec0695" />
+<img width="1919" height="1140" alt="Ekran görüntüsü 2026-02-11 111830" src="https://github.com/user-attachments/assets/2714f67b-c855-4bcd-a50f-ae711ea08060" />
+<img width="1919" height="1139" alt="Ekran görüntüsü 2026-02-11 111800" src="https://github.com/user-attachments/assets/40c8ea12-fc7c-4112-8649-dcfedc6970df" />
+<img width="1919" height="1140" alt="Ekran görüntüsü 2026-02-11 111750" src="https://github.com/user-attachments/assets/abe52029-f118-4542-aae8-cdee08c6f006" />
+
+
+
 ## 📜 Lisans
 
 Bu proje MIT Lisansı altında dağıtılmaktadır.
